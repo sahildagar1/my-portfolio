@@ -40,7 +40,7 @@ export default function Footer(){
                             {icon:<FaTwitter/>,link:""},
                             {icon:<FaInstagram/>,link:""},
                             {icon:<FaGithub/>,link:"https://github.com/sahildagar1"},
-                            {icon:<FaLinkedin/>,link:"https://linkedin.com/sahil-dagar"},
+                            {icon:<FaLinkedin/>,link:"https://www.linkedin.com/in/sahil-dagar/"},
                         ].map((item,index)=>(
                             <a key={index}
                             href={item.link}
